@@ -2,6 +2,12 @@
 
 <div align="center">
  
+ <br/>
+ 
+Hello! 👋 I'm **HYEON**, working as a front-end developer in Seoul, Korea.  
+ 
+ <br/>
+ 
 <p>
  <img src="https://img.shields.io/badge/-React-yellow?style=for-the-badge&color=61DAFB&logo=React&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/-Typescript-yellow?style=for-the-badge&color=3178C6&logo=Typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/-NextJS-yellow?style=for-the-badge&color=000000&logo=Next.js&logoColor=white"/>
 <br/>
@@ -15,7 +21,6 @@
  <br/>
 </p>
 
-Hello! 👋 I'm **HYEON**, working as a front-end developer in Seoul, Korea.  
 Usually, use **React with TypeScript** and **Next.js** for SSR.  
 I want to build services that support **a11y**, can **communicate with people** and make me fun 🥳. 
 
