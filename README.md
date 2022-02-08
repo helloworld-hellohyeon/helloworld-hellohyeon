@@ -9,3 +9,17 @@
   </p>
  </div>
  
+<p>
+ <br/>
+<hr/>
+ <br/>
+</p>
+
+Hello! 👋 I'm **HYEON**, working as a front-end developer in Seoul, Korea.  
+Usually, use **React with TypeScript** and **Next.js** for SSR.  
+I want to build services that support **a11y**, can **communicate with people** and make me fun 🥳. 
+
+<br/>
+
+Currently, I'm working with a bunch of cat hair from my lovely cat🐱 Haru (means 'one day' in Korean), and learning tab dance👞 and Korean sign language🧏 as hobbies.  
+Follow me on [Github](https://github.com/helloworld-hellohyeon) and [Twitter](https://twitter.com/hello_HYE_ON) ✨
